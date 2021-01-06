@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vstodo README
 
 This is the README for your extension "vstodo". After writing up a brief description, we recommend including the following sections.
@@ -63,3 +64,7 @@ Added features X, Y, and Z.
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+=======
+# adv-vsc-ext-typescript-svelte
+This is an Advanced VSCode Extension starter with typescript and svelte..
+>>>>>>> 1de8ba94d70f2cb84a6c16b4b8611ac4e1d1d6c5
